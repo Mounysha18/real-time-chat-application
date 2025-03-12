@@ -1,5 +1,17 @@
 # Realtime Chat App with Node.js and WebSockets
 
+Company:codtech-it solution
+ 
+ Name:Mounysha S
+ 
+ Intern id:CT08UKC
+ 
+ Domain:front-end development
+ 
+ Duration:4 weeks
+ 
+ Mentor:neela santosh
+
 ## Overview
 
 This Realtime Chat App is a simple yet powerful application built with Node.js and WebSockets, allowing users to join different chat rooms and communicate with each other in real-time.
