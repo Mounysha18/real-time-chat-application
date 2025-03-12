@@ -56,3 +56,7 @@ nodemon src/index.js or node src/index.js
 
 ## Contributing
 Feel free to contribute to the development of this Realtime Chat App by creating issues or submitting pull requests. Your feedback and contributions are highly appreciated!
+
+
+
+![image](https://github.com/user-attachments/assets/5cdcbaed-0201-4c74-b382-0f2f6eaaf118)
